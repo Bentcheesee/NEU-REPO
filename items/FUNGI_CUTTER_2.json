@@ -1,0 +1,35 @@
+{
+  "itemid": "minecraft:golden_hoe",
+  "displayname": "§9Fungi Cutter Mk. II",
+  "nbttag": "{ExtraAttributes:{id:\"FUNGI_CUTTER_2\",levelable_exp:0.0D,levelable_lvl:1},HideFlags:254,ItemModel:\"minecraft:golden_hoe\",Unbreakable:1B,display:{Lore:[0:\"§7Mushroom Fortune: §6+4\",1:\"§7Farming Wisdom: §3+1\",2:\"\",3:\"§7Level §a1 §8-> §62   §8(0/1k)\",4:\"§f§l§m                         §r §e0§6%\",5:\"\",6:\"§eRight-click to view recipes!\",7:\"\",8:\"§8This item can be reforged!\",9:\"§9§lRARE HOE\"],Name:\"§9Fungi Cutter Mk. II\"}}",
+  "damage": 0,
+  "lore": [
+    "§7Mushroom Fortune: §6+4",
+    "§7Farming Wisdom: §3+1",
+    "",
+    "§7Level §a1 §8-> §62   §8(0/1k)",
+    "§f§l§m                         §r §e0§6%",
+    "",
+    "§eRight-click to view recipes!",
+    "",
+    "§8This item can be reforged!",
+    "§9§lRARE HOE"
+  ],
+  "internalname": "FUNGI_CUTTER_2",
+  "clickcommand": "viewrecipe",
+  "crafttext": "",
+  "modver": "Firmament 3.11.0+mc1.21.7",
+  "infoType": "",
+  "info": [],
+  "recipe": {
+    "A1": "ENCHANTED_HUGE_MUSHROOM_1:10",
+    "A2": "ENCHANTED_HUGE_MUSHROOM_2:10",
+    "A3": "ENCHANTED_HUGE_MUSHROOM_1:10",
+    "B1": "ENCHANTED_HUGE_MUSHROOM_2:10",
+    "B2": "COCO_CHOPPER:1",
+    "B3": "ENCHANTED_HUGE_MUSHROOM_2:10",
+    "C1": "ENCHANTED_HUGE_MUSHROOM_1:10",
+    "C2": "ENCHANTED_HUGE_MUSHROOM_2:10",
+    "C3": "ENCHANTED_HUGE_MUSHROOM_1:10"
+  }
+}

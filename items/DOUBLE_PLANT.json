@@ -4,13 +4,18 @@
   "nbttag": "{ExtraAttributes:{id:\"DOUBLE_PLANT\"},HideFlags:254,ItemModel:\"minecraft:sunflower\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fSunflower\"}}",
   "damage": 0,
   "lore": [
+    "§8Collection Item",
+    "",
     "§f§lCOMMON"
   ],
   "internalname": "DOUBLE_PLANT",
   "clickcommand": "",
   "crafttext": "",
   "modver": "Firmament 3.2.0-dev+mc1.21.5+gb028db5",
-  "infoType": "",
-  "info": [],
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixel-skyblock.fandom.com/wiki/Sunflower",
+    "https://wiki.hypixel.net/Sunflower"
+  ],
   "vanilla": true
 }

@@ -60,6 +60,11 @@
           "chance": "10%"
         },
         {
+          "id": "JELLY:1",
+          "extra": [],
+          "chance": "10%"
+        },
+        {
           "id": "ENCHANTED_GOLDEN_CARROT:12",
           "extra": [],
           "chance": "0.5%"

@@ -1,0 +1,35 @@
+{
+  "itemid": "minecraft:golden_axe",
+  "displayname": "§9Cocoa Chopper Mk. II",
+  "nbttag": "{ExtraAttributes:{id:\"COCO_CHOPPER_2\",levelable_exp:0.0D,levelable_lvl:1},HideFlags:254,ItemModel:\"minecraft:golden_axe\",Unbreakable:1B,display:{Lore:[0:\"§7Cocoa Beans Fortune: §6+4.08\",1:\"§7Farming Wisdom: §3+1.02\",2:\"\",3:\"§7Level §a1 §8-> §62   §8(0/1k)\",4:\"§f§l§m                         §r §e0§6%\",5:\"\",6:\"§eRight-click to view recipes!\",7:\"\",8:\"§8This item can be reforged!\",9:\"§9§lRARE AXE\"],Name:\"§9Cocoa Chopper Mk. II\"}}",
+  "damage": 0,
+  "lore": [
+    "§7Cocoa Beans Fortune: §6+4",
+    "§7Farming Wisdom: §3+1",
+    "",
+    "§7Level §a1 §8-> §62   §8(0/1k)",
+    "§f§l§m                         §r §e0§6%",
+    "",
+    "§eRight-click to view recipes!",
+    "",
+    "§8This item can be reforged!",
+    "§9§lRARE AXE"
+  ],
+  "internalname": "COCO_CHOPPER_2",
+  "clickcommand": "viewrecipe",
+  "crafttext": "",
+  "modver": "Firmament 3.11.0+mc1.21.7",
+  "infoType": "",
+  "info": [],
+  "recipe": {
+    "A1": "ENCHANTED_COOKIE:5",
+    "A2": "ENCHANTED_COOKIE:5",
+    "A3": "ENCHANTED_COOKIE:5",
+    "B1": "ENCHANTED_COOKIE:5",
+    "B2": "COCO_CHOPPER:1",
+    "B3": "ENCHANTED_COOKIE:5",
+    "C1": "ENCHANTED_COOKIE:5",
+    "C2": "ENCHANTED_COOKIE:5",
+    "C3": "ENCHANTED_COOKIE:5"
+  }
+}

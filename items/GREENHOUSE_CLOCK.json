@@ -1,0 +1,19 @@
+{
+  "itemid": "minecraft:clock",
+  "displayname": "§cGreenhouse Clock",
+  "nbttag": "{ExtraAttributes:{id:\"GREENHOUSE_CLOCK\"},HideFlags:254,ItemModel:\"minecraft:clock\",display:{Lore:[0:\"§6Ability: Greenhouse Time Skip  §e§lRIGHT CLICK\",1:\"§7Advances the time of all Greenhouses in your\",2:\"§7Garden by 3 hours, doubled if sneaking.\",3:\"\",4:\"§c§lSPECIAL\"],Name:\"§cGreenhouse Clock\"},ench:[]}",
+  "damage": 0,
+  "lore": [
+    "§6Ability: Greenhouse Time Skip  §e§lRIGHT CLICK",
+    "§7Advances the time of all Greenhouses in your",
+    "§7Garden by 3 hours, doubled if sneaking.",
+    "",
+    "§c§lSPECIAL"
+  ],
+  "internalname": "GREENHOUSE_CLOCK",
+  "clickcommand": "",
+  "crafttext": "",
+  "modver": "Firmament 3.11.0+mc1.21.7",
+  "infoType": "",
+  "info": []
+}

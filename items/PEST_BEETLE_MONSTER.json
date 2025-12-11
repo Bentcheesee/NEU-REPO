@@ -59,6 +59,11 @@
           "chance": "10%"
         },
         {
+          "id": "JELLY:1",
+          "extra": [],
+          "chance": "10%"
+        },
+        {
           "id": "PESTERMINATOR;1:1",
           "extra": [],
           "chance": "3.5%"

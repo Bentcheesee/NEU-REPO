@@ -55,6 +55,11 @@
           "chance": "10%"
         },
         {
+          "id": "JELLY:1",
+          "extra": [],
+          "chance": "10%"
+        },
+        {
           "id": "CHEESE_FUEL:1",
           "extra": [],
           "chance": "10%"

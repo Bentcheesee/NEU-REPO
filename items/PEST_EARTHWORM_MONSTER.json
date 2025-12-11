@@ -59,6 +59,11 @@
           "chance": "10%"
         },
         {
+          "id": "JELLY:1",
+          "extra": [],
+          "chance": "10%"
+        },
+        {
           "id": "VINYL_EARTHWORM_ENSEMBLE:1",
           "extra": [],
           "chance": "2%"

@@ -20,5 +20,131 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Shiny_Orb",
     "https://wiki.hypixel.net/Shiny_Orb"
+  ],
+  "recipes": [
+    {
+      "name": "§6Shiny Pig",
+      "render": "@neurepo:mobs/shiny_pig.json",
+      "panorama": "farming_1",
+      "extra": [
+        "§7Shiny Pigs show up during",
+        "§7the Year of the Pig event."
+      ],
+      "type": "drops",
+      "drops": [
+        {
+          "id": "SKYBLOCK_RANDOM_XP:1000",
+          "extra": [
+            "§eWeight: 100000"
+          ],
+          "chance": "23.585%"
+        },
+        {
+          "id": "SKYBLOCK_COINS:3000",
+          "extra": [
+            "§eWeight: 100000"
+          ],
+          "chance": "23.585%"
+        },
+        {
+          "id": "SKYBLOCK_COINS:7777",
+          "extra": [
+            "§eWeight: 60000"
+          ],
+          "chance": "14.151%"
+        },
+        {
+          "id": "SKYBLOCK_COINS:10000",
+          "extra": [
+            "§eWeight: 25000"
+          ],
+          "chance": "5.896%"
+        },
+        {
+          "id": "SKYBLOCK_COINS:25000",
+          "extra": [
+            "§eWeight: 7500"
+          ],
+          "chance": "1.708%"
+        },
+        {
+          "id": "SKYBLOCK_COINS:50000",
+          "extra": [
+            "§eWeight: 3000"
+          ],
+          "chance": "0.708%"
+        },
+        {
+          "id": "SKYBLOCK_COINS:1000000",
+          "extra": [
+            "§eWeight: 150"
+          ],
+          "chance": "0.035%"
+        },
+        {
+          "id": "ENCHANTED_POTATO:32",
+          "extra": [
+            "§eWeight: 50000"
+          ],
+          "chance": "11.792%"
+        },
+        {
+          "id": "ENCHANTED_PORK:8",
+          "extra": [
+            "§eWeight: 25000"
+          ],
+          "chance": "5.896%"
+        },
+        {
+          "id": "GRAND_EXP_BOTTLE:8",
+          "extra": [
+            "§eWeight: 25000"
+          ],
+          "chance": "5.896%"
+        },
+        {
+          "id": "FARMING_FOR_DUMMIES:1",
+          "extra": [
+            "§eWeight: 15000"
+          ],
+          "chance": "3.538%"
+        },
+        {
+          "id": "HARVESTING;6:1",
+          "extra": [
+            "§eWeight: 5000"
+          ],
+          "chance": "1.179%"
+        },
+        {
+          "id": "POTATO_SPREADING:1",
+          "extra": [
+            "§eWeight: 5000"
+          ],
+          "chance": "1.179%"
+        },
+        {
+          "id": "HOT_POTATO_BOOK:1",
+          "extra": [
+            "§eWeight: 2500"
+          ],
+          "chance": "0.590%"
+        },
+        {
+          "id": "SHINY_SHARD:1",
+          "extra": [
+            "§eWeight: 750"
+          ],
+          "chance": "0.177%"
+        },
+        {
+          "id": "POTATO_TALISMAN:1",
+          "extra": [
+            "§eWeight: 100"
+          ],
+          "chance": "0.024%"
+        }
+      ]
+    }
   ]
 }

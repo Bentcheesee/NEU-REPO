@@ -60,6 +60,11 @@
           "chance": "10%"
         },
         {
+          "id": "JELLY:1",
+          "extra": [],
+          "chance": "10%"
+        },
+        {
           "id": "VINYL_CICADA_SYMPHONY:1",
           "extra": [],
           "chance": "2%"

@@ -1,0 +1,21 @@
+{
+  "itemid": "minecraft:red_flower",
+  "displayname": "§fMoonflower",
+  "nbttag": "{ExtraAttributes:{id:\"MOONFLOWER\"},HideFlags:254,ItemModel:\"minecraft:blue_orchid\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§f§lCOMMON\"],Name:\"§fMoonflower\"}}",
+  "damage": 1,
+  "lore": [
+    "§8Collection Item",
+    "",
+    "§8§oObtained from Sunflower Minions",
+    "§f§lCOMMON"
+  ],
+  "internalname": "MOONFLOWER",
+  "clickcommand": "",
+  "crafttext": "",
+  "modver": "Firmament 3.11.0+mc1.21.7",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixel-skyblock.fandom.com/wiki/Moonflower",
+    "https://wiki.hypixel.net/Moonflower"
+  ]
+}

@@ -11,7 +11,9 @@
     "§7to apply it!",
     "",
     "§6Source:",
-    "§aVI: §7Fishing,",
+    "§aI-V: §7Enchantment Table",
+    "§aVI: §7Fishing",
+    "§aVII: §6Troubled Bubble§7,",
     "§7Experiments",
     "",
     "§6Applied To:",
@@ -23,7 +25,7 @@
   "internalname": "PISCARY;6",
   "clickcommand": "",
   "crafttext": "",
-  "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+  "modver": "Firmament 3.11.0+mc1.21.7",
   "infoType": "",
   "info": []
 }

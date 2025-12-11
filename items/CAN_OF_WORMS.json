@@ -20,5 +20,57 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Can_of_Worms",
     "https://wiki.hypixel.net/Can_Of_Worms"
+  ],
+  "recipes": [
+    {
+      "name": "§aCan of Worms",
+      "render": "@neurepo:mobs/can_of_worms.json",
+      "panorama": "fishing_1",
+      "type": "drops",
+      "drops": [
+        {
+          "id": "SKYBLOCK_FISHING_XP:500",
+          "extra": [
+            "§eWeight: 100"
+          ],
+          "chance": "28.5714%"
+        },
+        {
+          "id": "SKYBLOCK_FISHING_XP:1000",
+          "extra": [
+            "§eWeight: 50"
+          ],
+          "chance": "14.2857%"
+        },
+        {
+          "id": "SKYBLOCK_FISHING_XP:2000",
+          "extra": [
+            "§eWeight: 25"
+          ],
+          "chance": "7.1428%"
+        },
+        {
+          "id": "FISH_BAIT:16",
+          "extra": [
+            "§eWeight: 75"
+          ],
+          "chance": "21.4285%"
+        },
+        {
+          "id": "MINNOW_BAIT:16",
+          "extra": [
+            "§eWeight: 50"
+          ],
+          "chance": "14.2857%"
+        },
+        {
+          "id": "SPIKED_BAIT:16",
+          "extra": [
+            "§eWeight: 50"
+          ],
+          "chance": "14.2857%"
+        }
+      ]
+    }
   ]
 }
