@@ -1,23 +1,25 @@
 {
   "itemid": "minecraft:skull",
   "displayname": "§dAlabaster (Rift NPC)",
-  "nbttag": "{HideFlags:254,SkullOwner:{Id:\"83ebf2fb-5d26-29ed-be1f-45a014875eac\",Properties:{textures:[0:{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2UzMzkzODM4Zjk0MjY1NDhmODYwZWI1M2I5Mjg3M2RlNmVlMDA3YzhhYWJlZWUxMGRhZjYzY2ViMTdlODc5YmUifX19\"}]},Name:\"83ebf2fb-5d26-29ed-be1f-45a014875eac\"},display:{Lore:[0:\"§7An NPC that contributes to unlocking\",1:\"§7the Rift Transfer Chest.\"],Name:\"§dAlabaster (Rift NPC)\"},ExtraAttributes:{id:\"ALABASTER_RIFT_NPC\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"ALABASTER_RIFT_NPC\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"ed949cd1-f0a6-2051-88b9-1a27bc359d4d\",Properties:{textures:[0:{Name:\"textures\",Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2UzMzkzODM4Zjk0MjY1NDhmODYwZWI1M2I5Mjg3M2RlNmVlMDA3YzhhYWJlZWUxMGRhZjYzY2ViMTdlODc5YmUiLCJtZXRhZGF0YSI6e319fSwicHJvZmlsZUlkIjoiZWQ5NDljZDFmMGE2MjA1MTg4YjkxYTI3YmMzNTlkNGQiLCJwcm9maWxlTmFtZSI6Im5lYTg5IiwiaXNQdWJsaWMiOnRydWUsInRpbWVzdGFtcCI6MTc3NjExMTM4NDYxN30=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Points you to getting\",1:\"§7the §bStability Elixir§7...\",2:\"\",3:\"                  §7...eventually.\"],Name:\"§dAlabaster (Rift NPC)\"}}",
   "damage": 3,
   "lore": [
-    "§7An NPC that contributes to unlocking",
-    "§7the Rift Transfer Chest."
+    "§7Points you to getting",
+    "§7the §bStability Exilir§7...",
+    "",
+    "                  §7...eventually."
   ],
   "internalname": "ALABASTER_RIFT_NPC",
   "clickcommand": "",
-  "modver": "2.4.0",
-  "x": -130,
-  "y": 74,
-  "z": 167,
-  "island": "rift",
   "crafttext": "",
+  "modver": "Firmament 43.0.0+mc1.21.10",
   "infoType": "WIKI_URL",
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Alabaster",
     "https://wiki.hypixel.net/Alabaster"
-  ]
+  ],
+  "x": -131,
+  "y": 73,
+  "z": 166,
+  "island": "rift"
 }
