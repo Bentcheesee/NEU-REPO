@@ -1,22 +1,25 @@
 {
   "itemid": "minecraft:skull",
   "displayname": "§dVreike (Rift NPC)",
-  "nbttag": "{HideFlags:254,SkullOwner:{Id:\"a0f8b520-7a10-23ce-a94d-f210adc2059d\",Properties:{textures:[0:{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzhmOWMwOGExMDgxNjZhZTBkYjg0NzY5OWVlYTM3NzNiYWEzNWFlOGQ4YTY2MmRlZjJkM2JhNmNhZWIwYmM2ZWEifX19\"}]},Name:\"a0f8b520-7a10-23ce-a94d-f210adc2059d\"},display:{Lore:[0:\"\"],Name:\"§dVreike (Rift NPC)\"},ExtraAttributes:{id:\"VREIKE_RIFT_NPC\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"VREIKE_RIFT_NPC\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"31f7f274-df83-2dc2-896d-856e1c679645\",Properties:{textures:[0:{Name:\"textures\",Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGY5YzA4YTEwODE2NmFlMGRiODQ3Njk5ZWVhMzc3M2JhYTM1YWU4ZDhhNjYyZGVmMmQzYmE2Y2FlYjBiYzZlYSIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiIzMWY3ZjI3NGRmODMyZGMyODk2ZDg1NmUxYzY3OTY0NSIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzc2MTExNzM4OTk5fQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Points you to getting\",1:\"§7the §bStability Elixir§7...\",2:\"\",3:\"                  §7...eventually.\"],Name:\"§dVreike (Rift NPC)\"}}",
   "damage": 3,
   "lore": [
-    ""
+    "§7Points you to getting",
+    "§7the §bStability Elixir§7...",
+    "",
+    "                  §7...eventually."
   ],
   "internalname": "VREIKE_RIFT_NPC",
   "clickcommand": "",
-  "modver": "2.1.1-PRE",
-  "x": -124,
-  "y": 74,
-  "z": 173,
-  "island": "rift",
   "crafttext": "",
+  "modver": "Firmament 43.0.0+mc1.21.10",
   "infoType": "WIKI_URL",
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Vreike",
     "https://wiki.hypixel.net/Vreike"
-  ]
+  ],
+  "x": -125,
+  "y": 73,
+  "z": 172,
+  "island": "rift"
 }

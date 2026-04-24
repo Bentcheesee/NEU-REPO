@@ -1,21 +1,26 @@
 {
   "itemid": "minecraft:skull",
   "displayname": "§9Alchemage (NPC)",
-  "nbttag": "{SkullOwner:{Id:\"3951e66b-460f-27f7-8fbb-630ec5cdab5f\",Properties:{textures:[0:{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2VmN2E0ZGRkZTJiZjY4MWVkOWJmYjlmODllOWE0Mzk3ZDFlYzllM2I3ZDEwOWU2ZjU2YjZlZDUyMjJiYWEwMTMifX19\"}]},Name:\"3951e66b-460f-27f7-8fbb-630ec5cdab5f\"},display:{Lore:[0:\"\"],Name:\"§9Alchemage (NPC)\"},ExtraAttributes:{id:\"ALCHEMAGE_NPC\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"ALCHEMAGE_NPC\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"a029e3d6-fe12-2d28-8eba-8858458fc925\",Properties:{textures:[0:{Name:\"textures\",Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZWY3YTRkZGRlMmJmNjgxZWQ5YmZiOWY4OWU5YTQzOTdkMWVjOWUzYjdkMTA5ZTZmNTZiNmVkNTIyMmJhYTAxMyIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiJhMDI5ZTNkNmZlMTIyZDI4OGViYTg4NTg0NThmYzkyNSIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzc2MTEwMTgzOTEzfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Found above the §5Scarleton Bank§7,\",1:\"§7they'll ask for many golden items in return\",2:\"§7for some reputation and the §9Alchemist's Staff§7.\",3:\"\",4:\"§7Much cooler than §cBaar§7.\"],Name:\"§9Alchemage (NPC)\"}}",
   "damage": 3,
   "lore": [
-    ""
+    "§7Found above the §5Scarleton Bank§7,",
+    "§7they'll ask for many golden items in return",
+    "§7for some reputation and the §9Alchemist's Staff§7.",
+    "",
+    "§7Much cooler than §cBaar§7."
   ],
   "internalname": "ALCHEMAGE_NPC",
   "clickcommand": "",
-  "modver": "2.1.1-PRE",
-  "x": -86,
-  "y": 119,
-  "z": -771,
-  "island": "crimson_isle",
+  "crafttext": "",
+  "modver": "Firmament 43.0.0+mc1.21.10",
   "infoType": "WIKI_URL",
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Alchemage",
     "https://wiki.hypixel.net/Alchemage"
-  ]
+  ],
+  "x": -86,
+  "y": 118,
+  "z": -771,
+  "island": "crimson_isle"
 }

@@ -1,20 +1,21 @@
 {
   "itemid": "minecraft:skull",
   "displayname": "§9Tomioka (NPC)",
-  "nbttag": "{HideFlags:254,SkullOwner:{Id:\"9c107377-0b39-5a9b-8e71-a1484562eb27\",Properties:{textures:[0:{Value:\"e3RleHR1cmVzOntTS0lOOnt1cmw6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTVjYjcyM2U5OTU3MjlhNWM5NDMyMmQzYWEzZjFhNTY4NTcyNDNhNzQ5NGI2ODA2YzZhNmNkYzJiZGI2ODE3OCJ9fX0=\"}]}},display:{Lore:[0:\"\"],Name:\"§9Tomioka (NPC)\"},ExtraAttributes:{id:\"TOMIOKA_NPC\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"TOMIOKA_NPC\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"9c107377-0b39-5a9b-8e71-a1484562eb27\",Properties:{textures:[0:{Value:\"e3RleHR1cmVzOntTS0lOOnt1cmw6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTVjYjcyM2U5OTU3MjlhNWM5NDMyMmQzYWEzZjFhNTY4NTcyNDNhNzQ5NGI2ODA2YzZhNmNkYzJiZGI2ODE3OCJ9fX0\u003d\"}]}},display:{Lore:[0:\"§7Can be found within a special room in the\",1:\"§cCatacombs§7.  Sells various higher level §9Enchanted Books§7.\"],Name:\"§9Tomioka (NPC)\"}}",
   "damage": 3,
   "lore": [
-    ""
+    "§7Can be found within a special room in the",
+    "§cCatacombs§7.  Sells various higher level §9Enchanted Books§7."
   ],
   "internalname": "TOMIOKA_NPC",
   "clickcommand": "viewrecipe",
-  "modver": "2.1.0-REL",
+  "crafttext": "",
+  "modver": "Firmament 43.0.0+mc1.21.10",
   "infoType": "WIKI_URL",
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Tomioka",
     "https://wiki.hypixel.net/Tomioka"
   ],
-  "crafttext": "",
   "recipes": [
     {
       "type": "npc_shop",
