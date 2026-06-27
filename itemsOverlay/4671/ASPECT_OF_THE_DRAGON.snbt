@@ -1,9 +1,7 @@
 {
 	components: {
 		"minecraft:custom_data": {
-			bossId: "9a1e7413-3976-404b-9532-be964ea95c8d",
-			id: "ASPECT_OF_THE_DRAGON",
-			spawnedFor: "05351ac9-6963-4856-964f-d99b59f4b8bf"
+			id: "ASPECT_OF_THE_DRAGON"
 		},
 		"minecraft:tooltip_display": {
 			hidden_components: [
@@ -28,6 +26,6 @@
 	id: "minecraft:diamond_sword",
 	source: {
 		dataVersion: 4671,
-		modVersion: "Firmament 44.0.0+mc1.21.11"
+		modVersion: "Firmament 44.2.0-dev+mc1.21.11+ga2a6cfec"
 	}
 }

@@ -158,15 +158,15 @@
     },
     {
       "bazaarName": "SHARD_BURNINGSOUL",
-      "displayName": "Burningsoul",
-      "rarity": "LEGENDARY",
+      "displayName": "Inferno Demonlord",
+      "rarity": "EPIC",
       "internalName": "ATTRIBUTE_SHARD_ATTACK_SPEED;1",
       "abilityName": "Attack Speed",
       "alignment": "Combat",
       "family": [
         "Demon"
       ],
-      "shardId": "L27"
+      "shardId": "E29"
     },
     {
       "bazaarName": "SHARD_FALCON",
@@ -808,7 +808,7 @@
     },
     {
       "bazaarName": "SHARD_NIGHT_SQUID",
-      "displayName": "Night Squid",
+      "displayName": "Inkling",
       "rarity": "COMMON",
       "internalName": "ATTRIBUTE_SHARD_FISHERMAN;1",
       "abilityName": "Fisherman",
@@ -816,7 +816,7 @@
       "family": [
         "Squid"
       ],
-      "shardId": "C8"
+      "shardId": "C32"
     },
     {
       "bazaarName": "SHARD_SEA_EMPEROR",
@@ -928,7 +928,7 @@
       "displayName": "End Stone Protector",
       "rarity": "LEGENDARY",
       "internalName": "ATTRIBUTE_SHARD_FORTITUDE;1",
-      "abilityName": "Paramount Fortitude",
+      "abilityName": "Unlimited Fortitude",
       "alignment": "Combat",
       "family": [],
       "shardId": "L9"
@@ -1019,8 +1019,8 @@
       "shardId": "R8"
     },
     {
-      "bazaarName": "SHARD_COCOALEECH_SHARD",
-      "displayName": "Cocoaleech Shard",
+      "bazaarName": "SHARD_COCOALEECH",
+      "displayName": "Cocoaleech",
       "rarity": "LEGENDARY",
       "internalName": "ATTRIBUTE_SHARD_GROOVY_RADAR;1",
       "abilityName": "Groovy Radar",
@@ -1376,19 +1376,19 @@
     {
       "bazaarName": "SHARD_HELLWISP",
       "displayName": "Hellwisp",
-      "rarity": "EPIC",
+      "rarity": "LEGENDARY",
       "internalName": "ATTRIBUTE_SHARD_MATRIARCH_CUBS;1",
       "abilityName": "Matriarch Cubs",
       "alignment": "Combat",
       "family": [],
-      "shardId": "E29"
+      "shardId": "L27"
     },
     {
       "bazaarName": "SHARD_TAURUS",
       "displayName": "Taurus",
       "rarity": "LEGENDARY",
       "internalName": "ATTRIBUTE_SHARD_MAXIMAL_TORMENT;1",
-      "abilityName": "Maximal Torment",
+      "abilityName": "Unlimited Torment",
       "alignment": "Water",
       "family": [],
       "shardId": "L17"
@@ -2103,7 +2103,7 @@
       "displayName": "Titanoboa",
       "rarity": "LEGENDARY",
       "internalName": "ATTRIBUTE_SHARD_BAYOU_BITER;1",
-      "abilityName": "Bayou Biter",
+      "abilityName": "Bayou Hook",
       "alignment": "Water",
       "family": [
         "Reptile"
@@ -2163,7 +2163,7 @@
       "displayName": "Sphinx",
       "rarity": "EPIC",
       "internalName": "ATTRIBUTE_SHARD_BIG_GAME_HUNTER;1",
-      "abilityName": "Big Game Hunter",
+      "abilityName": "Mythological Tracker",
       "alignment": "Combat",
       "shardId": "E39"
     },
@@ -2184,6 +2184,51 @@
       "abilityName": "Freezing Spread",
       "alignment": "Combat",
       "shardId": "E45"
+    },
+    {
+      "bazaarName": "SHARD_LOTUS_FISH",
+      "displayName": "Lotusfish",
+      "rarity": "COMMON",
+      "internalName": "ATTRIBUTE_SHARD_LOTUS_TROPHY;1",
+      "abilityName": "Lotus Trophy",
+      "alignment": "Water",
+      "shardId": "C26"
+    },
+    {
+      "bazaarName": "SHARD_LOTUM",
+      "displayName": "Lotum",
+      "rarity": "UNCOMMON",
+      "internalName": "ATTRIBUTE_SHARD_LILY_TRACKER;1",
+      "abilityName": "Lily Tracker",
+      "alignment": "Water",
+      "shardId": "U23"
+    },
+    {
+      "bazaarName": "SHARD_SEA_SHINE",
+      "displayName": "Seashine",
+      "rarity": "RARE",
+      "internalName": "ATTRIBUTE_SHARD_DIAMOND_FROG;1",
+      "abilityName": "Diamond Frog",
+      "alignment": "Water",
+      "shardId": "R32"
+    },
+    {
+      "bazaarName": "SHARD_TEWTIL",
+      "displayName": "Tewtil",
+      "rarity": "UNCOMMON",
+      "internalName": "ATTRIBUTE_SHARD_LILY_PUNCHER;1",
+      "abilityName": "Lily Puncher",
+      "alignment": "Water",
+      "shardId": "U59"
+    },
+    {
+      "bazaarName": "SHARD_FLIP_FLOPPER",
+      "displayName": "Flipflopper",
+      "rarity": "UNCOMMON",
+      "internalName": "ATTRIBUTE_SHARD_GOLDEN_FROG;1",
+      "abilityName": "Golden Frog",
+      "alignment": "Water",
+      "shardId": "U41"
     }
   ]
 }
